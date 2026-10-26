@@ -1,7 +1,7 @@
 ## Hi, I'm Leonidas Zettas
 
 Electrical \& Computer Engineer (5-year Integrated Master, energy track), University of Western Macedonia, 2026.
-Interested in junior or trainee opportunities to start my career
+Interested in junior or trainee opportunities to start my career.
 
 **Portfolio:** [zettasleonidas.github.io](https://zettasleonidas.github.io)
 
